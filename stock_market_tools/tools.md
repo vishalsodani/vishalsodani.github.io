@@ -1,0 +1,3 @@
+- screener.in
+- https://www.rupeevest.com/Mutual-Fund-Holdings/100084
+    - to figure out mutual fund holdings in a stock
