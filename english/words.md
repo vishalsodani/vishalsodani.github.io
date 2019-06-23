@@ -1,14 +1,10 @@
-Exclaimed
+These are from **Mr Gum and the Power Crystals**
 
-Plummeted
-
-Whirring
-
-Evidence
-
-Frowned
-
-Ledge
-
-Panting
-
+    Exclaimed
+    Plummeted
+    Whirring
+    Evidence
+    Frowned
+    Ledge
+    Panting
+    Entrails
